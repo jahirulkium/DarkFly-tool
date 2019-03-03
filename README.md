@@ -11,7 +11,7 @@ install:
 
 * `pkg install python2`
 * `pkg install git`
-* `git clone https://github.com/Ranginang67/DarkFly-Tool`
+* `git clone https://github.com/jahirulkium/DarkFly-Tool`
 * `cd DarkFly-Tool`
 * `python2 install.py`
 
